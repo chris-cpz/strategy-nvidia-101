@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 import pandas as pd
 import numpy as np
 import warnings
-warnings.filterwarnings('ignore')
+# warnings.filterwarnings('ignore')
 
 # Configure logging
 logging.basicConfig(
